@@ -1,4 +1,4 @@
-# Script ofr Random Encounter in dnd (roll20)
+# Script for Random Encounters in dnd (roll20)
 
 Using information from XANATHAR and some others found on the web create a script that generate random encounter.
 This is thescript  logic :
